@@ -1,7 +1,8 @@
 ## Hi, I'm Wiktoria 👋
 
+I'm a **beginner Frontend Developer**!
 
-
+- 🔭 I’m currently working on portfolio project 
 <!--
 **wikt0ria216/wikt0ria216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
